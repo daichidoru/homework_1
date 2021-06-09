@@ -1,0 +1,50 @@
+body {
+background-image: url("back.png");
+  font-family: Trebuchet MS, sans-serif;
+  
+  
+}
+
+h1 {
+font-size: 36px;
+}
+
+p {
+	color: #666666;
+}
+
+h2 {
+	color: #267ecc;
+
+}
+.imgp {
+
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.main {
+	margin-left: auto;
+  margin-right: auto;
+
+}
+
+.maintable {
+	margin-left: auto;
+  margin-right: auto;
+
+}
+
+.left_name {
+
+
+	font-size: 12px;
+
+
+
+}
+
+.rignt_personal {
+
+font-size: 12px;
+
+
+}
